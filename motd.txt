@@ -1,1 +1,1 @@
-hi welcome
+<color=red>TESTLOL</color>
